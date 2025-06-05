@@ -1,0 +1,59 @@
+Name: Anita Singh | Email: anita.singh@codealpha.tech | Salary: ₹52,000
+Name: Rahul Verma | Email: rahul.verma@codealpha.tech | Salary: ₹48,000
+Name: Meena Das | Email: meena.das@codealpha.tech | Salary: ₹50,000
+Name: Sourav HR | Email: sourav.hr@codealpha.tech | Salary: ₹53,500
+Name: Divya Kumar | Email: divya.kumar@codealpha.tech | Salary: ₹47,000
+
+Name: Ravi Sharma | Email: ravi.sharma@codealpha.tech | Salary: ₹45,000
+Name: Poonam Shah | Email: poonam.shah@codealpha.tech | Salary: ₹46,500
+Name: Deepak Bajaj | Email: deepak.bajaj@codealpha.tech | Salary: ₹51,000
+Name: Kiran Nair | Email: kiran.nair@codealpha.tech | Salary: ₹50,000
+Name: Sneha Joseph | Email: sneha.joseph@codealpha.tech | Salary: ₹49,000
+
+Name: Ajay Dev | Email: ajay.dev@codealpha.tech | Salary: ₹68,000
+Name: Kavita Backend | Email: kavita.backend@codealpha.tech | Salary: ₹65,000
+Name: Mukesh Frontend | Email: frontend.mukesh@codealpha.tech | Salary: ₹62,500
+Name: Priya Fullstack | Email: priya.fullstack@codealpha.tech | Salary: ₹70,000
+Name: Deepa PyDev | Email: deepa.pydev@codealpha.tech | Salary: ₹63,000
+
+Name: Intern A | Email: intern01@codealpha.tech | Salary: ₹10,000
+Name: Intern B | Email: intern02@codealpha.tech | Salary: ₹10,000
+Name: Intern C | Email: intern03@codealpha.tech | Salary: ₹10,000
+Name: Intern D | Email: intern04@codealpha.tech | Salary: ₹10,000
+Name: Intern E | Email: intern05@codealpha.tech | Salary: ₹10,000
+
+Name: CEO | Email: ceo@codealpha.tech | Salary: ₹2,00,000
+Name: CTO | Email: cto@codealpha.tech | Salary: ₹1,80,000
+Name: COO | Email: coo@codealpha.tech | Salary: ₹1,75,000
+Name: Chief Marketing | Email: chief.marketing@codealpha.tech | Salary: ₹1,60,000
+Name: Chief Data | Email: chief.data@codealpha.tech | Salary: ₹1,65,000
+
+Name: John Marketing | Email: marketing.john@codealpha.tech | Salary: ₹56,000
+Name: Neha Marketing | Email: neha.marketing@codealpha.tech | Salary: ₹54,000
+Name: Viral Growth | Email: viral.growth@codealpha.tech | Salary: ₹58,000
+Name: Ads Manager | Email: ads.manager@codealpha.tech | Salary: ₹59,500
+Name: Content Head | Email: content.head@codealpha.tech | Salary: ₹61,000
+
+Name: IT Admin | Email: admin.it@codealpha.tech | Salary: ₹62,000
+Name: Infra Head | Email: infra.head@codealpha.tech | Salary: ₹66,000
+Name: VPN Admin | Email: vpn.admin@codealpha.tech | Salary: ₹60,000
+Name: SysAdmin One | Email: sysadmin01@codealpha.tech | Salary: ₹57,000
+Name: SysAdmin Two | Email: sysadmin02@codealpha.tech | Salary: ₹57,000
+
+Name: Aarti Freelancer | Email: freelancer.aarti@codealpha.tech | Salary: ₹40,000
+Name: Jay Freelancer | Email: freelancer.jay@codealpha.tech | Salary: ₹42,000
+Name: Vivek Freelancer | Email: freelancer.vivek@codealpha.tech | Salary: ₹39,500
+Name: External Writer | Email: external.writer@codealpha.tech | Salary: ₹35,000
+Name: Consultant | Email: consult@codealpha.tech | Salary: ₹50,000
+
+Name: Info Desk | Email: info@codealpha.tech | Salary: ₹25,000
+Name: Queries Team | Email: queries@codealpha.tech | Salary: ₹30,000
+Name: Newsletter Editor | Email: newsletter@codealpha.tech | Salary: ₹33,000
+Name: Recruiter | Email: recruitment@codealpha.tech | Salary: ₹38,000
+Name: Feedback Officer | Email: feedback@codealpha.tech | Salary: ₹29,000
+
+Name: Support General | Email: support@codealpha.tech | Salary: ₹48,000
+Name: Helpdesk | Email: helpdesk@codealpha.tech | Salary: ₹47,000
+Name: Tech Support 1 | Email: tech.support1@codealpha.tech | Salary: ₹46,000
+Name: Tech Support 2 | Email: tech.support2@codealpha.tech | Salary: ₹46,000
+Name: Services Team | Email: services@codealpha.tech | Salary: ₹50,000
