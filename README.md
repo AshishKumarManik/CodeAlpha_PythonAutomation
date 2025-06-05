@@ -1,8 +1,4 @@
-Absolutely! Here's a more detailed and polished version of the rewritten section, ideal for a `README.md` or project brief:
-
----
-
-✅ TASK 3: Task Automation with Python Scripts
+✅ Automation with Python Scripts
 
 🎯 Objective
 
