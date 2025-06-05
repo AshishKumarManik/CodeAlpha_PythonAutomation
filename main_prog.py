@@ -69,12 +69,12 @@ def main():
 
     choice = input("👉 Enter your choice ('1' or '2'): ").strip().lower()
 
-    if choice == '1':
-        extract_emails_from_file()
-    elif choice == '2':
-        move_jpg_files_between_folders()
-    else:
-        print("❌ Invalid choice. Please type 'email' or 'img'.")
+   if choice == 'email':
+    extract_emails_from_file()
+elif choice == 'img':
+    move_jpg_files_between_folders()
+else:
+    print("❌ Invalid choice. Please type 'email' or 'img'.")
 
 if __name__ == "__main__":
     main()
