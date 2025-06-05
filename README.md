@@ -36,4 +36,3 @@ and builds habits for writing clean and reusable code. Ideal for beginners and i
 
 ---
 
-Let me know if you'd like a working example or the code templates for any of these ideas!
